@@ -3,8 +3,8 @@
 
 <P>
   
-- Healthy Body Wellness Center (HBWC) SAR: case study /presented assignment
+- Healthy Body Wellness Center (HBWC) SAR: case study supporting document
   
-- Task 1 and Task 2 are my submissions
+- Task 1 and Task 2: my submission
   
-- DREAD Workbook via Excel is my submission</P>
+- DREAD Workbook via Excel: my submission</P>
